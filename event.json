@@ -1,4 +1,98 @@
 [
-    
-
+    {
+        "name": "Chocolate Event",
+        "time": "0:30"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "1:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "3:00"
+    },
+    {
+        "name": "Tokyo Event",
+        "time": "3:30"
+    },
+    {
+        "name": "Lucky Rot Event",
+        "time": "4:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "5:00"
+    },
+    {
+        "name": "Tokyo Event",
+        "time": "6:30"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "7:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "9:00"
+    },
+    {
+        "name": "Underwater Event",
+        "time": "9:30"
+    },
+    {
+        "name": "Lucky Rot Event",
+        "time": "10:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "11:00"
+    },
+    {
+        "name": "Chocolate Event",
+        "time": "12:30"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "13:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "15:00"
+    },
+    {
+        "name": "Tokyo Event",
+        "time": "15:30"
+    },
+    {
+        "name": "Lucky Rot Event",
+        "time": "16:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "17:00"
+    },
+    {
+        "name": "Darkness Event",
+        "time": "18:30"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "19:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "21:00"
+    },
+    {
+        "name": "Underwater Event",
+        "time": "21:30"
+    },
+    {
+        "name": "Lucky Rot Event",
+        "time": "22:00"
+    },
+    {
+        "name": "Toxic Event",
+        "time": "23:00"
+    }
 ]
