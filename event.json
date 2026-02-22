@@ -1,25 +1,3 @@
 [
-  { "name": "? Event", "time": "00:30" },
-  { "name": "Love Event", "time": "01:00" },
-  { "name": "Love Event", "time": "03:00" },
-  { "name": "? Event", "time": "03:30" },
-  { "name": "Lucky Rot Event", "time": "04:00" },
-  { "name": "Love Event", "time": "05:00" },
-  { "name": "Darkness Event", "time": "06:30" },
-  { "name": "Love Event", "time": "07:00" },
-  { "name": "Love Event", "time": "09:00" },
-  { "name": "Underwater Event", "time": "09:30" },
-  { "name": "Love Event", "time": "11:00" },
-  { "name": "? Event", "time": "12:30" },
-  { "name": "Love Event", "time": "13:00" },
-  { "name": "Love Event", "time": "15:00" },
-  { "name": "? Event", "time": "15:30" },
-  { "name": "Lucky Rot Event", "time": "16:00" },
-  { "name": "Love Event", "time": "17:00" },
-  { "name": "Darkness Event", "time": "18:30" },
-  { "name": "Love Event", "time": "19:00" },
-  { "name": "Love Event", "time": "21:00" },
-  { "name": "Underwater Event", "time": "21:30" },
-  { "name": "Lucky Rot Event", "time": "22:00" },
-  { "name": "Toxic Event", "time": "23:00" }
 ]
+
